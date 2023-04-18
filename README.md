@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Code to generate all computational Figures in Jayawant *et al.* as interactive Jupyter notebooks.
+  Code to generate all computational Figures in Jayawant <i>et al.</i> as interactive Jupyter notebooks.
   <br>
 </h1>
 
