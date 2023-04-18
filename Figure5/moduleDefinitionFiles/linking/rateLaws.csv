@@ -1,0 +1,6 @@
+Name,Definition
+sumThings,[S1]*([Mod1]+[Mod2]+[Mod3]+[Mod4]+{k1}*[Mod5])
+Mass Action,[S1]*{k1}
+Mass Action NEMOIKK,{k1} * [S1] * [Mod1]
+Hill Equation with Modifier,( {k1}*[Mod1]*[S1] ) / ( {k2} + [S1] )
+Mass Action Mod, [s1] * {k1} *[Mod1]

@@ -1,0 +1,11 @@
+parameter,value,distribute
+k1_IKKdeg,1,0
+k1_TLRIKKscaling,500,0
+k1_IkBaDegIKK,0.0014,1
+k1_IkBbDegIKK,0.0014,1
+k1_IkBeDegIKK,0.0014,1
+k1_IkBDeg,0.00024,1
+k1_IkBadeg,0.12,1
+k1_IkBbdeg,0.12,1
+k1_IkBedeg,0.01155,1
+k1_IkBddeg,0.003,1
