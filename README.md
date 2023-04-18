@@ -24,7 +24,7 @@
   - Will generate the cytokine expression data bar graphs for the supplemental figure.
   - Notebook can be viewed without running [here](https://nbviewer.org/github/SiFTW/NFkBModel/blob/main/cytokineGeneExpression.ipynb)
   ![Figure 4 Example](/Images/supplementalFigExample.png)
-* [Figure5/Cell Line Model and fingerprinting.ipynb](/Figure5/Cell Line Model and fingerprinting.ipynb)
+* [Figure5/CellLineModelandfingerprinting.ipynb](/Figure5/CellLineModelandfingerprinting.ipynb)
   - Will generate the cell line models with and without mutations as seen in Figure 5.
-  - Notebook can be viewed without running [here](https://nbviewer.org/github/SiFTW/NFkBModel/blob/main/Figure5/Cell Line Model and fingerprinting.ipynb)
+  - Notebook can be viewed without running [here](https://nbviewer.org/github/SiFTW/NFkBModel/blob/main/Figure5/CellLineModelandfingerprinting.ipynb)
   ![Figure 5 Example](/Images/Figure5Example.png)
