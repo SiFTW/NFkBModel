@@ -1,8 +1,10 @@
 <h1 align="center">
   <br>
-  Code to generate all computationaFigures in Jayawant et al. as interactive Jupyter notebooks
+  Code to generate all computational Figures in Jayawant *et al.* as interactive Jupyter notebooks.
   <br>
 </h1>
+
+`Manifest.toml` and `Project.toml` contain the packages and their versions used to do all modeling in this paper. The below details will tell you which sheet will recreate each figure. All model definition files, and analysis is performed in these sheets.
 
 ## Recreating Figures
 
